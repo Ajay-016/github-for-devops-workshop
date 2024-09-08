@@ -1,0 +1,7 @@
+  01 git init   ---------> Creates a new git repository
+  02 git status  --------> to see status of the file
+  03 git add testing.py  -------->  untracked to staged  
+  04 git rm --cached testing.py   --------> staged to untracked 
+  05 git commit -m "Added ...   --------> staged to tracked 
+  06 rm testing.py   ---------> to delete file
+  07 git restore testing.py -------> to restore deleted file
