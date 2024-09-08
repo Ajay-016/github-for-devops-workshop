@@ -5,3 +5,9 @@
   05 git commit -m "Added ...   --------> staged to tracked 
   06 rm testing.py   ---------> to delete file
   07 git restore testing.py -------> to restore deleted file
+
+
+
+
+
+  New commands to add in your github repo.
